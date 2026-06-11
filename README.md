@@ -374,6 +374,7 @@ jupyter notebook notebooks/feature_engineer.ipynb
 ## 👥 Authors
 
 - Team: Gridlock Traffic Demand Prediction
+- Team Members: Nishi, Jyoti, Neha, Raksha
 - Date: 2026
 - Repository: [nishi885/Gridlock](https://github.com/nishi885/Gridlock)
 
